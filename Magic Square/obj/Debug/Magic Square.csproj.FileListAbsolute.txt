@@ -1,0 +1,10 @@
+C:\Users\Rehan Khan\source\repos\Magic Square\Magic Square\bin\Debug\Magic Square.exe.config
+C:\Users\Rehan Khan\source\repos\Magic Square\Magic Square\bin\Debug\Magic Square.exe
+C:\Users\Rehan Khan\source\repos\Magic Square\Magic Square\bin\Debug\Magic Square.pdb
+C:\Users\Rehan Khan\source\repos\Magic Square\Magic Square\obj\Debug\Magic Square.csprojAssemblyReference.cache
+C:\Users\Rehan Khan\source\repos\Magic Square\Magic Square\obj\Debug\Magic_Square.Form1.resources
+C:\Users\Rehan Khan\source\repos\Magic Square\Magic Square\obj\Debug\Magic_Square.Properties.Resources.resources
+C:\Users\Rehan Khan\source\repos\Magic Square\Magic Square\obj\Debug\Magic Square.csproj.GenerateResource.cache
+C:\Users\Rehan Khan\source\repos\Magic Square\Magic Square\obj\Debug\Magic Square.csproj.CoreCompileInputs.cache
+C:\Users\Rehan Khan\source\repos\Magic Square\Magic Square\obj\Debug\Magic Square.exe
+C:\Users\Rehan Khan\source\repos\Magic Square\Magic Square\obj\Debug\Magic Square.pdb
